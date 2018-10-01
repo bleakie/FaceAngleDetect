@@ -9,3 +9,4 @@ You should add include and libfacedetect in VS environment. Just so easy!
 Base on windows with vs2013 or later.
 
 # Result
+![result](https://github.com/bleakie/FaceAngleDetect/blob/master/result.png)
